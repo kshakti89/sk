@@ -10,6 +10,7 @@ class hello {
     	//getEvenString("It is pleasent");
     	
     			System.out.println("is the 1st non-repititive digit in the given String");
+				System.out.println("Yo yo");
     	
     }
 }
